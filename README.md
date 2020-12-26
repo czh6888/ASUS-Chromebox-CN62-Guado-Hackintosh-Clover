@@ -1,0 +1,1 @@
+# ASUS-Chromebox-CN62-Guado-Hackintosh-Clover
